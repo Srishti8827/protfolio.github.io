@@ -1,0 +1,36 @@
+.navbar ul{
+    margin: 0px;
+    padding: 1.2rem;
+    flex-direction: column;
+}
+.navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 13px;
+    padding-bottom: 8px;
+}
+.home{
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    flex-direction: row;
+    
+}
+img{
+   
+    position: relative;
+    height: 200px;
+    width: 180px;
+   
+   
+}
+#box{
+    position: relative;
+    height: 110px;
+    width: 100px;
+}
+.last{
+    overflow: hidden;
+}
+.form input{
+  width: 21rem;
+}
